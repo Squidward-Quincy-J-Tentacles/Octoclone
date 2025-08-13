@@ -169,7 +169,6 @@ You can replace this with your own custom wordlist.
 
 ## Screenshots
 
-> *(Optional: Add screenshots of OctoClone in action)*
 
 1. Cloning a website
 2. Subdomain enumeration
