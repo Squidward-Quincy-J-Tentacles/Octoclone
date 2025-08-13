@@ -20,16 +20,15 @@ OctoClone is a Python-based web cloning and reconnaissance tool. It allows users
 1. [Installation](#installation)
 2. [Dependencies](#dependencies)
 3. [Usage](#usage)
-4. [Windows Executable](#windows-executable)
-5. [Available Commands](#available-commands)
-6. [Example Workflow](#example-workflow)
-7. [Configuration](#configuration)
-8. [Wordlist](#wordlist)
-9. [Screenshots](#screenshots)
-10. [License](#license)
-11. [Contributing](#contributing)
-12. [Troubleshooting](#troubleshooting)
-13. [Disclaimer](#disclaimer)
+4. [Available Commands](#available-commands)
+5. [Example Workflow](#example-workflow)
+6. [Configuration](#configuration)
+7. [Wordlist](#wordlist)
+8. [Screenshots](#screenshots)
+9. [License](#license)
+10. [Contributing](#contributing)
+11. [Troubleshooting](#troubleshooting)
+12. [Disclaimer](#disclaimer)
 
 ---
 
@@ -88,26 +87,6 @@ octoclone>
 
 ---
 
-## Windows Executable
-
-To run OctoClone on Windows, use the pre-built `.exe` file (included in releases).
-To build your own executable:
-
-1. Install PyInstaller:
-
-```bash
-pip install pyinstaller
-```
-
-2. Build executable:
-
-```bash
-pyinstaller --onefile octoclone.py
-```
-
-3. The executable will appear in the `dist` folder.
-
----
 
 ## Available Commands
 
